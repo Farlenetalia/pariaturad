@@ -1,0 +1,2 @@
+  view.backgroundColor = UIColor.clear
+  
